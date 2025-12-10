@@ -9,4 +9,4 @@ Software Development, Web Development, Typescript, Node.js, HTML5, CSS3, SCSS, L
 ### Libraries
 React.js, mobx, redux, Next.js, React-router, scss, tailwind css, Amazon EC2, Webpack, Vite, Storybook, Jest, Vitest.
 ### CI/CD
-Docker, Amazon AWS, Amazon EC2, Docker, Nginx.
+Docker, Amazon AWS, Amazon EC2, Nginx.
